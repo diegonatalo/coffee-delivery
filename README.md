@@ -30,6 +30,13 @@ Descrição do projeto.
 
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
+- [React Router](https://reactrouter.com/en/main)
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://github.com/colinhacks/zod)
+- [Immer](https://github.com/immerjs/immer)
+- [Styled Components](https://styled-components.com/)
+- [Polished](https://polished.js.org/)
+- [Phosphor Icons](https://phosphoricons.com/) 
 - [Vite](https://vitejs.dev/)
 
 ---
